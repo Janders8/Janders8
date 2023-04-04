@@ -1,7 +1,7 @@
 # 💫 About Me:
 Nazywam się Jan Żmuda, jestem studentem Geoinformatyki na Politechnice Warszawskiej. <br>Interesuje się programowaniem, znam Pythona oraz podstawy C++ oraz Javy. 
 <br> Potrafię również obsługiwać bazy relacyjne oraz NoSQL, takie jak Redis, MongoDB czy Neo4j.
-<br>Znam się równierz na oprogramowaniach GIS, m.in ArcGIS Pro oraz QGIS.
+<br>Znam się także na oprogramowaniach GIS, m.in ArcGIS Pro oraz QGIS.
 
 
 # 💻 Tech Stack:
